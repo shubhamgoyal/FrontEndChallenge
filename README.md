@@ -33,3 +33,7 @@ By the way, if you find the Github API a tad too boring, pick something else you
 ### Submission notes
 
 You can just submit a PR here, create a private repo for free on [GitLab](https://www.gitlab.com/?gclid=CLCBmaWM474CFaMSwwodAqIAqw) or [Bitbucket](https://bitbucket.org/), or just send us the repo by email. Whatever you prefer.
+
+### Questions/Issues
+
+Please feel free to email [Shubham](mailto:shubhamjigoyal@gmail.com). Do not be shy. Questions/issues will not disadvantage your prospects in any way.
