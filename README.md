@@ -22,6 +22,7 @@ We could be sneaky and not say anything else, but here's some things we're looki
 * An app we can try :)
 * Something not looking like a web site from 1993s, We do like how the internet looks today :)
 * Well-handled offline mode (or rather, a non completely useless or somewhat informative offline mode)
+* ES 6 code
 * Angular 6
 * Well-architected and extensible Angular app using the latest and greatest tooling
 
