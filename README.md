@@ -1,5 +1,3 @@
-# Thortful Front End Fever
-
 Show us what you can do and how clean your code is! Write a JavaScript / Coffeescript app using AngularJS that will allow a user to search a repository by name and display a repository's relevant information such as URL, description, forks count, stargazers count, open issues count etc.
 
 Also, display the available issues of a repository in a separate section in the UI:
