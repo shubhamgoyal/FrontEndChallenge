@@ -5,6 +5,7 @@ Show us what you can do and how clean your code is! Write a JavaScript / Coffees
 Also, display the available issues of a repository in a separate section in the UI:
 
 * Implement the best design possible for the user interface - search and search results, and issues section.
+* Any past searches, associated information or issues must be saved even if the user goes offline without closing the browser tab or navigating away (psst: a little birdie told us that a redux like data store can be helpful here).
 * You can use Twitter Bootstrap and any JavaScript libraries to support AngularJS (Underscore etc).
 * Use best practices in writing JavaScript / Coffeescript, CSS, and HTML.
 * Write clearly and use proper MVC structure to write the application.
@@ -21,8 +22,10 @@ Few useful URLs:
 We could be sneaky and not say anything else, but here's some things we're looking to see:
 
 * An app we can try :)
-* Use of existing open source libraries
 * Something not looking like a web site from 1993s, We do like how the internet looks today :)
+* Well-handled offline mode (or rather, a non completely useless or somewhat informative offline mode)
+* Angular 6
+* Well-architected and extensible Angular app using the latest and greatest tooling
 
 By the way, if you find the Github API a tad too boring, pick something else you like. Without giving any hints, there are a few nice APIs available out there from Star Wars, Cats (of course), ...
 
@@ -30,7 +33,3 @@ By the way, if you find the Github API a tad too boring, pick something else you
 ### Submission notes
 
 You can just submit a PR here, create a private repo for free on [GitLab](https://www.gitlab.com/?gclid=CLCBmaWM474CFaMSwwodAqIAqw) or [Bitbucket](https://bitbucket.org/), or just send us the repo by email. Whatever you prefer.
-
----
-
-[@HowThortful](https://thortful.com) - 2015
